@@ -33,7 +33,7 @@ None
 - [ ] ASCII digital clock
 
 ### Games
-- [ ] Snake
+- [x] [Snake](https://github.com/benmoore422/c-snake)
 - [ ] Rock Paper Scissors
 - [ ] Unity Game (?)
 - [ ] Yahtzee
