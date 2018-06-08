@@ -2,7 +2,7 @@
 
 # Easy
 ### Practical
-- [ ] Markov chain sentence generator
+- [x] [Markov chain sentence generator] (https://github.com/benmoore422/markov-text-generator)
 - [ ] Todo list CLI or webapp
 - [ ] Persistent chatbot
 - [ ] Image to ASCII art
