@@ -3,7 +3,7 @@
 # Easy
 ### Practical
 - [x] [Markov chain sentence generator](https://github.com/benmoore422/markov-text-generator)
-- [ ] Todo list CLI or webapp
+- [x] [Todo list CLI or webapp](https://github.com/benmoore422/Todo-list)
 - [ ] Persistent chatbot
 - [ ] Image to ASCII art
 - [ ] Imageboard
