@@ -28,7 +28,7 @@ None
 ### Emulation / Modeling
 - [ ] Complimentary color generator
 - [ ] Eulerian path
-- [ ] Spinning 3D cube
+- [x] [Spinning 3D cube](https://github.com/benmoore422/3D-rotating-cube)
 - [ ] Cellular textures
 - [ ] ASCII digital clock
 
