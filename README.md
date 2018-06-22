@@ -5,7 +5,7 @@
 - [x] [Markov chain sentence generator](https://github.com/benmoore422/markov-text-generator)
 - [x] [Todo list CLI or webapp](https://github.com/benmoore422/Todo-list)
 - [ ] Persistent chatbot
-- [ ] Image to ASCII art
+- [x] [Image to ASCII art](https://github.com/benmoore422/image-to-ascii-converter)
 - [ ] Imageboard
 - [ ] HSV color rep. (?)
 - [ ] Port scanner
