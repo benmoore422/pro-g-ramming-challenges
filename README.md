@@ -2,10 +2,10 @@
 
 # Easy
 ### Practical
-- [x] [Markov chain sentence generator](https://github.com/benmoore422/markov-text-generator)
-- [x] [Todo list CLI or webapp](https://github.com/benmoore422/Todo-list)
-- [x] [Persistent chatbot](https://github.com/benmoore422/chat-bot)
-- [x] [Image to ASCII art](https://github.com/benmoore422/image-to-ascii-converter)
+- [x] [Markov chain sentence generator](https://github.com/bmoo0/markov-text-generator)
+- [x] [Todo list CLI or webapp](https://github.com/bmoo0/Todo-list)
+- [x] [Persistent chatbot](https://github.com/bmoo0/chat-bot)
+- [x] [Image to ASCII art](https://github.com/bmoo0/image-to-ascii-converter)
 - [ ] Imageboard
 - [ ] HSV color rep. (?)
 - [ ] Port scanner
@@ -28,12 +28,12 @@ None
 ### Emulation / Modeling
 - [ ] Complimentary color generator
 - [ ] Eulerian path
-- [x] [Spinning 3D cube](https://github.com/benmoore422/3D-rotating-cube)
+- [x] [Spinning 3D cube](https://github.com/bmoo0/3D-rotating-cube)
 - [ ] Cellular textures
 - [ ] ASCII digital clock
 
 ### Games
-- [x] [Snake](https://github.com/benmoore422/c-snake)
+- [x] [Snake](https://github.com/bmoo0/c-snake)
 - [ ] Rock Paper Scissors
 - [ ] Unity Game (?)
 - [ ] Yahtzee
