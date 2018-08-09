@@ -8,7 +8,7 @@
 - [x] [Image to ASCII art](https://github.com/bmoo0/image-to-ascii-converter)
 - [ ] Imageboard
 - [ ] HSV color rep. (?)
-- [ ] Port scanner
+- [x] [Port scanner](https://github.com/bmoo0/portscan)
 - [ ] Old school demo effect (?)
 - [ ] PDF tagger
 
