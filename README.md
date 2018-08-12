@@ -34,7 +34,7 @@ None
 
 ### Games
 - [x] [Snake](https://github.com/bmoo0/c-snake)
-- [ ] Rock Paper Scissors
+- [x] [Rock Paper Scissors](https://github.com/bmoo0/Rock-paper-scissors)
 - [ ] Unity Game (?)
 - [ ] Yahtzee
 - [ ] Oil Panic
