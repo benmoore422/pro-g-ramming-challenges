@@ -14,7 +14,7 @@
 
 ### Algorithmic
 - [ ] Fizzbuzz in ASM
-- [ ] RPN calculator
+- [x] [RPN calculator] (https://github.com/bmoo0/rpn-calc)
 - [ ] Count occurences of characters in unicode string
 - [ ] Towers of Hanoi
 - [ ] Ulam Spiral
